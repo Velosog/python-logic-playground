@@ -1,0 +1,3 @@
+Python é forte.
+Python é organizado.
+Gabi está estudando Python.
